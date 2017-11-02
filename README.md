@@ -95,7 +95,7 @@ It should reply with: `Hello! from the car buying service.`
 
 ## Building your car-buying app
 
-Let's build our car-buying app.
+Please go back to your `car-buying` directory and let's build our car-buying app.
 
 ### Installing prerequisites
 
